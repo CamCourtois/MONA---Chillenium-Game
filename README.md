@@ -1,5 +1,5 @@
 # MONA---Chillenium-2022-Game Jam
-A game based where the mona lisa gets sucked into a cyberpunk world and fights her way through to get back to the Louvre. 
+A two dimensional platformer and shooter game in which the user plays as the mona lisa after she is sent into a cyberpunk world, blasting her way through robot enemies to get back to the Louvre. 
 
 Programmers:
 Cameron Courtois,
